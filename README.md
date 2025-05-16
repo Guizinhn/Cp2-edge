@@ -72,11 +72,11 @@ void loop() {
 }
 🔗 Link do Projeto
 Acesse o circuito e o código no Tinkercad:
-👉 Clique aqui para abrir o projeto
+👉 Clique aqui para abrir o projeto  -  https://www.tinkercad.com/things/6Ln7vHml4OA-copy-of-lcd-i2c/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=DJJKF7-eqqWzy9s_53fGz9IzsCHLtdJwLYyOryvKX6g 
 
 🎥 Vídeo de Demonstração
 Assista à demonstração do projeto em funcionamento:
-📽️ Clique aqui para ver o vídeo
+📽️ Clique aqui para ver o vídeo   -  https://drive.google.com/file/d/1uwxxpFGtqThRAwYGpJi56xFKrFnC6InM/view?usp=sharing 
 
 👥 Integrantes
 Guilherme Moura Badia – RM: 561568
